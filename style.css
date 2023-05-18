@@ -197,4 +197,46 @@ p{
   
 }
 
+#Cathy{
+  height: 6rem;
+  border-radius: 60%;
+}
+#Emmily{
+  height: 6rem;
+  border-radius: 60%;
+}
+#Essy{
+  height: 6rem;
+  border-radius: 60%;
+}
+#Victoria{
+  height: 6rem;
+  border-radius: 60%;
+}
+#Jem{
+  height: 6rem;
+  border-radius: 60%;
+}
+#Linet{
+  height: 6rem;
+  border-radius: 60%;
+}
+.DEvs{
+  display: flex;
+  gap: 5%;
+  /* margin-left: 5%; */
+  color: antiquewhite;
+  background-color:#087f5b ;
+  padding: 5%;
+  width: -200%;
+  /* margin-right: 15%; */
+}
+.Dev2{
+  color:#087f5b;
+  text-align: center;
+  
+  
+
+} 
+
  
