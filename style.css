@@ -161,4 +161,40 @@ p{
     color: white;
 }
 
+.help{
+  color: #27AE60;
+  margin-right: 20%;
+  /* background-color: #27AE60; */
+  /* width: 3000%; */
+}
+.customer{
+  display: flex;
+  border-color: #212529;
+  border-radius: 3%;
+  /* gap: 5%; */
+  /* padding: 10%; */
+}
+.para{
+  color:black ;
+  font-size: large;
+  text-align: center;
+  /* margin-right: 20px;
+  margin-top: 10Px; */
+}
+.para3{
+  text-align: center;
+  color: darkblue;
+}
+#mamaG{
+  width: 400px;
+  height:300px;
+  margin-left:15%;
+  
+}
+.Dev2{
+  color:black;
+  text-align: center;
+  
+}
+
  
