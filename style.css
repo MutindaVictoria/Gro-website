@@ -265,4 +265,17 @@ p{
       background-color: var(--green);
       border-radius: 5%;
   }
+
+.britah{
+  display: flex;
+  justify-content: space-between;
+  background-color: #087F5B;
+  width: -800%;
+}
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
  
