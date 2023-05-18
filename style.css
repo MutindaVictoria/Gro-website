@@ -238,5 +238,31 @@ p{
   
 
 } 
+.tables{
+  display: flex; 
+  gap: 20%;
+  margin-left: 1%;
+  height: 20rem;
+  background-color: #087F5B;
+  color: #eee;
+}
 
+.Dev2{
+    color:#087f5b
+  }
+  .Message{
+      margin-left: 5%;
+      border-radius: 2px;
+       font-size: 180%;
+  }
+  .textbox{
+      padding: 30px 40px;
+      border-radius: 5%;
+      border-color: #333;
+      background-color: whitesmoke;
+  }
+  #btn{
+      background-color: var(--green);
+      border-radius: 5%;
+  }
  
