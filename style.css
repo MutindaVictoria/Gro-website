@@ -116,6 +116,59 @@ font-weight: bold;
     padding-top: 5%;
     color: #27AE60;
 }
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: whitesmoke;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  color:#087f5b;
+}
+
+.services {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 20px;
+  color: #087f5b;
+}
+#head2{
+  color: #212529;
+}
+
+.service {
+  width: 300px;
+  margin: 20px;
+  padding: 20px;
+  background-color: #F2F2F2;
+  text-align: center;
+  border-radius: 10px;
+  color: #087f5b;
+}
+
+.service img {
+  width: 200px;
+  height: 150px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.services h2 {
+  color: #087f5b;
+}
+.titles{
+  color: #087f5b;
+}
+
+
+
 .About{
     display: flex;
     width: 60%;
