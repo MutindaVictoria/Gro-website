@@ -171,6 +171,7 @@ p {
 .colors{
     color: #087f5b;
     text-align: center;
+    padding-right: 30%;
             
             font-size: 36px;
             margin-top: 20px;
@@ -355,10 +356,11 @@ p{
 .Dev2{
   color:#087f5b;
   text-align: center;
-  
-  
-
+  padding-right: 30%;
 } 
+.deliver{
+  padding-right: 30%;
+}
 .tables{
   display: flex; 
   gap: 20%;
@@ -398,5 +400,8 @@ footer {
   color: #fff;
   text-align: center;
   padding: 10px;
+}
+.para3{
+  font-size: 30px;
 }
  
