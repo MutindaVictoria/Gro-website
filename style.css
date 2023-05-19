@@ -106,6 +106,74 @@ font-weight: bold;
     height: 300px;
   }
 
+body {
+    font-family: Arial, sans-serif;
+    background-color: #E8F5E9;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #2E7D32;
+    text-align: center;
+}
+
+p {
+    color: #333;
+    line-height: 1.5;
+}
+
+.feature {
+    width: 300px;
+    margin: 20px;
+    padding: 20px;
+    color: #087F5B;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.feature img {
+    width: 220px;
+    height: 150px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.texts{
+  color: black;
+}
+
+.feature-text {
+    flex: 1;
+    
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: #FFF;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.button:hover {
+    background-color: #45A049;
+}
+
+.colors{
+    color: #087f5b;
+    text-align: center;
+            
+            font-size: 36px;
+            margin-top: 20px;
+}
   /* About */
 
 .heading h1{
@@ -115,6 +183,59 @@ font-weight: bold;
     padding-top: 5%;
     color: #27AE60;
 }
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: whitesmoke;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  color:#087f5b;
+}
+
+.services {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 20px;
+  color: #087f5b;
+}
+#head2{
+  color: #212529;
+}
+
+.service {
+  width: 300px;
+  margin: 20px;
+  padding: 20px;
+  background-color: #F2F2F2;
+  text-align: center;
+  border-radius: 10px;
+  color: #087f5b;
+}
+
+.service img {
+  width: 200px;
+  height: 150px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.services h2 {
+  color: #087f5b;
+}
+.titles{
+  color: #087f5b;
+}
+
+
+
 .About{
     display: flex;
     width: 60%;
@@ -294,11 +415,21 @@ footer {
   text-align: center;
   padding: 10px;
 }
+<<<<<<< HEAD
  #logo{
   height: 3rem;
   
 
   
+=======
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
+>>>>>>> fdc530600924541d499cf0c7d77c3f40ab3152d9
  
   
    }
